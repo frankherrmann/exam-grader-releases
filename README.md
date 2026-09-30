@@ -5,7 +5,7 @@ Desktop-Werkzeug zum Bewerten schriftlicher Klausuren in der gymnasialen Oberstu
 (Moderne Fremdsprachen und Deutsch, Hessen).
 
 > **Alle Infos, Screenshots und Handbuch:**
-> **<https://drherrmann.org/tutor-app/>**
+> **<https://drherrmann.org/exam-grader/>**
 
 Dieses Repository enthält **ausschließlich die fertigen Installationsdateien**
 (unter „Releases"). Der Quellcode ist nicht öffentlich.
