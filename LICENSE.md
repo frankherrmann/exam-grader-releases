@@ -38,7 +38,7 @@ Die zwingenden gesetzlichen Rechte nach **§§ 69d und 69e UrhG**
 Herstellung von Interoperabilität) bleiben hiervon unberührt.
 
 Weitergeben darfst du stets den **Link** auf die offizielle Downloadseite:
-<https://drherrmann.org/tutor-app/>
+<https://drherrmann.org/exam-grader/>
 
 ## § 4 Datenschutz und Verantwortlichkeit
 
